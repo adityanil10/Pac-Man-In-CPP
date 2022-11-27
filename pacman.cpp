@@ -1,8 +1,8 @@
 #include<iostream>
 #include<fstream>
 #include<curses.h>
-//#include<windows>
-//#include<process>
+#include<windows>
+#include<process>
 #include <unistd.h>
 #include<stdlib.h>
 #include<time.h>
